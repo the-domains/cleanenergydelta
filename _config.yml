@@ -1,3 +1,4 @@
+layout_spectrum: 0.8209909906145185
 typography_spectrum: 0.41895711119286716
 color:
   brandStrength: 0.8098471104167402
@@ -5,12 +6,9 @@ color:
   saturation: 0.1103404313325882
   rhythmicContrast: 0.5341599304229021
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.8209909906145185
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: CleanEnergyDelta
-title: 'Sustainable news from Zeeland, Holland.'
-description: Sustainable economics.
