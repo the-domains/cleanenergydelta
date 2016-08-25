@@ -28,17 +28,15 @@ description: >-
   into the Dutch national grid.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.tocardo.com/eastern-scheldt-tidal-project-starts-producing-power/'
 title: Eastern Scheldt tidal project starts producing power | Tocardo
-datePublished: '2016-08-19T18:44:25.704Z'
-dateModified: '2016-08-19T18:44:03.802Z'
+datePublished: '2016-08-25T11:03:27.379Z'
+dateModified: '2016-08-25T11:03:26.701Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-eastern-scheldt-tidal-project-starts-producing-power-or-tocar.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: eastern-scheldt-tidal-project-starts-producing-power-or-tocar/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
